@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Nectar</string>
+    <string name="activity_name">Equilibreur Chimique</string>
+    <string name="list_title">Liste des éléments chimiques (masse atomique)</string>
+    <string name="comment_view">
+        Veillez saisir une équation chimique non encore équilibrée, et cliquer ENTRER.
+        Vous pouvez aussi saisir la formule d\'une molécule pour connaitre sa masse molaire.
+        \nExemples :
+    </string>
+    <string name="dialog_title">À propos</string>
+    <string name="hint_in">Equation chimique</string>
+    <string name="hint_out">Réaction équilibrée \nEx:\n 2 C₆H₆ + 15 O₂ = 12 CO₂ + 6 H₂O</string>
+    <string name="first_out">$$\\LARGE{}\\color{grey}{\\textsf{Réaction équilibrée}}$$</string>
+
+    <string name="message">
+        \nNectar est un équilibreur chimique qui sert aussi à mesurer les masses molaires moléculaires.
+
+        \n\nMalgrès tout le soin apporté pour que l\'équilibrage des équations chimiques et le calcul des masses molaires soient exacts,
+        nous ne pouvons donner aucune garantie et n\'assumons aucune responsablité pour les résultats incorrects.
+
+        \n\nPour toute question ou proposition, veillez contacter le Serivce Support.\n
+    </string>
+    <string name="error_text">Donnée invalide</string>
+    <string name="exit_title">Quitter</string>
+    <string name="positive">Service de support</string>
+    <string name="neutral">Evaluer ou Mettre à jour</string>
+    <string name="negative">Retour</string>
+    <string name="amazon">https://www.amazon.fr/gp/product/B0BDWMT5R7</string>
+    <string name="google">https://play.google.com/store/apps/details?id=com.major.nectar</string>
+
+</resources>

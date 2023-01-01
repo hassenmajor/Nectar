@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Nectar</string>
+    <string name="activity_name">Chemical Balancer</string>
+    <string name="list_title">List of chemical elements (atomic mass)</string>
+    <string name="comment_view">
+        Please enter an unbalanced chemical equation, and click ENTER.
+        You can also enter a molecule to get the molar mass.
+        \nExamples:
+    </string>
+    <string name="dialog_title">About</string>
+    <string name="hint_in">Chemical equation</string>
+    <string name="hint_out">Balanced reaction \nEx:\n 2 C₆H₆ + 15 O₂ = 12 CO₂ + 6 H₂O</string>
+    <string name="first_out">$$\\LARGE{}\\color{grey}{\\textsf{Balanced reaction}}$$</string>
+
+    <string name="message">
+        \nNectar is a chemical balancer that is also used to measure molar masses of molecules.
+
+        \n\nDespite all the care taken to ensure that the balancing of the chemical equations and the calculation of the molar masses are exact,
+        we can make no guarantees and hold no responsibility for incorrect results.
+
+        \n\nFor any question or proposal, please contact the Support Service.\n
+    </string>
+    <string name="error_text">Invalid data</string>
+    <string name="exit_title">Exit</string>
+    <string name="positive">Support Service</string>
+    <string name="neutral">Evaluate or Update</string>
+    <string name="negative">Back</string>
+    <string name="amazon">https://www.amazon.com/gp/product/B0BDWMT5R7</string>
+    <string name="google">https://play.google.com/store/apps/details?id=com.major.nectar</string>
+
+</resources>

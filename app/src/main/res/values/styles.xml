@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/CouleurFont</item>
+    </style>
+
+    <style name="FullTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/CouleurFont</item>
+    </style>
+
+    <color name="CouleurFont">#F1F5FB</color>
+    <color name="CouleurGris">#858585</color>
+
+</resources>

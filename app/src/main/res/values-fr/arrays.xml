@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="element_list">
+
+        <item>Hydrogène</item>
+        <item>Hélium</item>
+
+        <item>Lithium</item>
+        <item>Béryllium</item>
+        <item>Bore</item>
+        <item>Carbone</item>
+        <item>Azote</item>
+        <item>Oxygène</item>
+        <item>Fluore</item>
+        <item>Néon</item>
+
+        <item>Sodium</item>
+        <item>Magnésium</item>
+        <item>Aluminium</item>
+        <item>Silicium</item>
+        <item>Phosphore</item>
+        <item>Soufre</item>
+        <item>Clore</item>
+        <item>Argon</item>
+
+        <item>Potassium</item>
+        <item>Calcium</item>
+        <item>Scandium</item>
+        <item>Titane</item>
+        <item>Vanadium</item>
+        <item>Chrome</item>
+        <item>Manganèse</item>
+        <item>Fer</item>
+        <item>Cobalt</item>
+        <item>Nickel</item>
+        <item>Cuivre</item>
+        <item>Zinc</item>
+        <item>Gallium</item>
+        <item>Germanium</item>
+        <item>Arsenic</item>
+        <item>Sélénium</item>
+        <item>Brome</item>
+        <item>Hypton</item>
+
+        <item>Rubidium</item>
+        <item>Strontium</item>
+        <item>Yttrium</item>
+        <item>Zirconium</item>
+        <item>Niobium</item>
+        <item>Molybdène</item>
+        <item>Technétium</item>
+        <item>Ruthénium</item>
+        <item>Rhodium</item>
+        <item>Palladium</item>
+        <item>Argent</item>
+        <item>Cadmium</item>
+        <item>Indium</item>
+        <item>Étain</item>
+        <item>Antimoine</item>
+        <item>Tellure</item>
+        <item>Iode</item>
+        <item>Xénon</item>
+
+        <item>Césium</item>
+        <item>Baryum</item>
+        <item>Lanthane</item>
+
+        <item>Cérium</item>
+        <item>Praséodyme</item>
+        <item>Néodyme</item>
+        <item>Prométhium</item>
+        <item>Samarium</item>
+        <item>Europium</item>
+        <item>Gadolinium</item>
+        <item>Terbium</item>
+        <item>Dysprosium</item>
+        <item>Holmium</item>
+        <item>Erbium</item>
+        <item>Thulium</item>
+        <item>Ytterbium</item>
+        <item>Lutétium</item>
+
+        <item>Hafnium</item>
+        <item>Tantale</item>
+        <item>Tungstène</item>
+        <item>Rhénium</item>
+        <item>Osmium</item>
+        <item>Iridium</item>
+        <item>Platine</item>
+        <item>Or</item>
+        <item>Mercure</item>
+        <item>Thallium</item>
+        <item>Plomb</item>
+        <item>Bismuth</item>
+        <item>Polonium</item>
+        <item>Astate</item>
+        <item>Radon</item>
+
+        <item>Francium</item>
+        <item>Radium</item>
+        <item>Actinium</item>
+
+        <item>Thorium</item>
+        <item>Protactinium</item>
+        <item>Uranium</item>
+        <item>Neptunium</item>
+        <item>Plutonium</item>
+        <item>Américium</item>
+        <item>Curium</item>
+        <item>Berkélium</item>
+        <item>Californium</item>
+        <item>Einsteinium</item>
+        <item>Fermium</item>
+        <item>Mendélévium</item>
+        <item>Nobélium</item>
+        <item>Lawrencium</item>
+        <item>Rutherfordium</item>
+
+        <item>Dubnium</item>
+        <item>Seaborgium</item>
+        <item>Bohrium</item>
+        <item>Hassium</item>
+        <item>Meitnérium</item>
+        <item>Darmstadtium</item>
+        <item>Roentgenium</item>
+        <item>Copernicium</item>
+        <item>Nihonium</item>
+        <item>Flérovium</item>
+        <item>Moscovium</item>
+        <item>Livermorium</item>
+        <item>Tennesse</item>
+        <item>Oganesson</item>
+
+    </string-array>
+
+</resources>

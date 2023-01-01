@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="atom_list">
+
+        <item>H</item>
+        <item>He</item>
+
+        <item>Li</item>
+        <item>Be</item>
+        <item>B</item>
+        <item>C</item>
+        <item>N</item>
+        <item>O</item>
+        <item>F</item>
+        <item>Ne</item>
+
+        <item>Na</item>
+        <item>Mg</item>
+        <item>Al</item>
+        <item>Si</item>
+        <item>P</item>
+        <item>S</item>
+        <item>Cl</item>
+        <item>Ar</item>
+
+        <item>K</item>
+        <item>Ca</item>
+        <item>Sc</item>
+        <item>Ti</item>
+        <item>V</item>
+        <item>Cr</item>
+        <item>Mn</item>
+        <item>Fe</item>
+        <item>Co</item>
+        <item>Ni</item>
+        <item>Cu</item>
+        <item>Zn</item>
+        <item>Ga</item>
+        <item>Ge</item>
+        <item>As</item>
+        <item>Se</item>
+        <item>Br</item>
+        <item>Kr</item>
+
+        <item>Rb</item>
+        <item>Sr</item>
+        <item>Y</item>
+        <item>Zr</item>
+        <item>Nb</item>
+        <item>Mo</item>
+        <item>Tc</item>
+        <item>Ru</item>
+        <item>Rh</item>
+        <item>Pd</item>
+        <item>Ag</item>
+        <item>Cd</item>
+        <item>In</item>
+        <item>Sn</item>
+        <item>Sb</item>
+        <item>Te</item>
+        <item>I</item>
+        <item>Xe</item>
+
+        <item>Cs</item>
+        <item>Ba</item>
+        <item>La</item>
+
+        <item>Ce</item>
+        <item>Pr</item>
+        <item>Nd</item>
+        <item>Pm</item>
+        <item>Sm</item>
+        <item>Eu</item>
+        <item>Gd</item>
+        <item>Tb</item>
+        <item>Dy</item>
+        <item>Ho</item>
+        <item>Er</item>
+        <item>Tm</item>
+        <item>Yb</item>
+        <item>Lu</item>
+
+        <item>Hf</item>
+        <item>Ta</item>
+        <item>W</item>
+        <item>Re</item>
+        <item>Os</item>
+        <item>Ir</item>
+        <item>Pt</item>
+        <item>Au</item>
+        <item>Hg</item>
+        <item>Tl</item>
+        <item>Pb</item>
+        <item>Bi</item>
+        <item>Po</item>
+        <item>At</item>
+        <item>Rn</item>
+
+        <item>Fr</item>
+        <item>Ra</item>
+        <item>Ac</item>
+
+        <item>Th</item>
+        <item>Pa</item>
+        <item>U</item>
+        <item>Np</item>
+        <item>Pu</item>
+        <item>Am</item>
+        <item>Cm</item>
+        <item>Bk</item>
+        <item>Cf</item>
+        <item>Es</item>
+        <item>Fm</item>
+        <item>Md</item>
+        <item>No</item>
+        <item>Lr</item>
+        <item>Rf</item>
+
+        <item>Db</item>
+        <item>Sg</item>
+        <item>Bh</item>
+        <item>Hs</item>
+        <item>Mt</item>
+        <item>Ds</item>
+        <item>Rg</item>
+        <item>Cn</item>
+        <item>Nh</item>
+        <item>Fl</item>
+        <item>Mc</item>
+        <item>Lv</item>
+        <item>Ts</item>
+        <item>Og</item>
+
+    </string-array>
+
+    <string-array name="element_list">
+
+        <item>Hydrogen</item>
+        <item>Helium</item>
+
+        <item>Lithium</item>
+        <item>Beryllium</item>
+        <item>Boron</item>
+        <item>Carbon</item>
+        <item>Nitrogen</item>
+        <item>Oxygen</item>
+        <item>Fluorine</item>
+        <item>Neon</item>
+
+        <item>Sodium</item>
+        <item>Magnesium</item>
+        <item>Aluminum</item>
+        <item>Silicon</item>
+        <item>Phosphorus</item>
+        <item>Sulfur</item>
+        <item>Chlorine</item>
+        <item>Argon</item>
+
+        <item>Potassium</item>
+        <item>Calcium</item>
+        <item>Scandium</item>
+        <item>Titanium</item>
+        <item>Vanadium</item>
+        <item>Chromium</item>
+        <item>Manganese</item>
+        <item>Iron</item>
+        <item>Cobalt</item>
+        <item>Nickel</item>
+        <item>Copper</item>
+        <item>Zinc</item>
+        <item>Gallium</item>
+        <item>Germanium</item>
+        <item>Arsenic</item>
+        <item>Selenium</item>
+        <item>Brome</item>
+        <item>Hypton</item>
+
+        <item>Rubidium</item>
+        <item>Strontium</item>
+        <item>Yttrium</item>
+        <item>Zirconium</item>
+        <item>Niobium</item>
+        <item>Molybdenum</item>
+        <item>Technetium</item>
+        <item>Ruthenium</item>
+        <item>Rhodium</item>
+        <item>Palladium</item>
+        <item>Silver</item>
+        <item>Cadmium</item>
+        <item>Indium</item>
+        <item>Tin</item>
+        <item>Antimony</item>
+        <item>Tellurium</item>
+        <item>Iodine</item>
+        <item>Xenon</item>
+
+        <item>Cesium</item>
+        <item>Barium</item>
+        <item>Lanthanum</item>
+
+        <item>Cerium</item>
+        <item>Praseodymium</item>
+        <item>Neodymium</item>
+        <item>Promethium</item>
+        <item>Samarium</item>
+        <item>Europium</item>
+        <item>Gadolinium</item>
+        <item>Terbium</item>
+        <item>Dysprosium</item>
+        <item>Holmium</item>
+        <item>Erbium</item>
+        <item>Thulium</item>
+        <item>Ytterbium</item>
+        <item>Lutetium</item>
+
+        <item>Hafnium</item>
+        <item>Tantalum</item>
+        <item>Tungsten</item>
+        <item>Rhenium</item>
+        <item>Osmium</item>
+        <item>Iridium</item>
+        <item>Platinum</item>
+        <item>Gold</item>
+        <item>Mercury</item>
+        <item>Thallium</item>
+        <item>Lead</item>
+        <item>Bismuth</item>
+        <item>Polonium</item>
+        <item>Astatine</item>
+        <item>Radon</item>
+
+        <item>Francium</item>
+        <item>Radium</item>
+        <item>Actinium</item>
+
+        <item>Thorium</item>
+        <item>Protactinium</item>
+        <item>Uranium</item>
+        <item>Neptunium</item>
+        <item>Plutonium</item>
+        <item>Americium</item>
+        <item>Curium</item>
+        <item>Berkelium</item>
+        <item>Californium</item>
+        <item>Einsteinium</item>
+        <item>Fermium</item>
+        <item>Mendelevium</item>
+        <item>Nobelium</item>
+        <item>Lawrencium</item>
+        <item>Rutherfordium</item>
+
+        <item>Dubnium</item>
+        <item>Seaborgium</item>
+        <item>Bohrium</item>
+        <item>Hassium</item>
+        <item>Meitnerium</item>
+        <item>Darmstadtium</item>
+        <item>Roentgenium</item>
+        <item>Copernicium</item>
+        <item>Nihonium</item>
+        <item>Flerovium</item>
+        <item>Moscovium</item>
+        <item>Livermorium</item>
+        <item>Tennesse</item>
+        <item>Oganesson</item>
+
+    </string-array>
+
+    <string-array name="molar_list">
+
+        <item>1.008</item>
+        <item>4.003</item>
+
+        <item>6.941</item>
+        <item>9.012</item>
+        <item>10.811</item>
+        <item>12.011</item>
+        <item>14.007</item>
+        <item>15.999</item>
+        <item>18.998</item>
+        <item>20.180</item>
+
+        <item>22.990</item>
+        <item>24.305</item>
+        <item>26.982</item>
+        <item>28.086</item>
+        <item>30.974</item>
+        <item>32.066</item>
+        <item>35.453</item>
+        <item>39.948</item>
+
+        <item>39.098</item>
+        <item>40.078</item>
+        <item>44.956</item>
+        <item>47.880</item>
+        <item>50.942</item>
+        <item>51.996</item>
+        <item>54.938</item>
+        <item>55.847</item>
+        <item>58.933</item>
+        <item>58.690</item>
+        <item>63.556</item>
+        <item>65.390</item>
+        <item>69.723</item>
+        <item>72.610</item>
+        <item>74.922</item>
+        <item>78.960</item>
+        <item>79.904</item>
+        <item>83.798</item>
+
+        <item>85.467</item>
+        <item>87.620</item>
+        <item>88.906</item>
+        <item>91.224</item>
+        <item>92.906</item>
+        <item>95.940</item>
+        <item>98.906</item>
+        <item>101.070</item>
+        <item>102.905</item>
+        <item>106.420</item>
+        <item>107.868</item>
+        <item>112.411</item>
+        <item>114.820</item>
+        <item>118.710</item>
+        <item>121.750</item>
+        <item>127.600</item>
+        <item>126.904</item>
+        <item>131.293</item>
+
+        <item>132.905</item>
+        <item>137.327</item>
+        <item>138.906</item>
+
+        <item>140.115</item>
+        <item>140.908</item>
+        <item>144.240</item>
+        <item>146.915</item>
+        <item>150.360</item>
+        <item>151.965</item>
+        <item>157.250</item>
+        <item>158.925</item>
+        <item>162.500</item>
+        <item>164.930</item>
+        <item>167.260</item>
+        <item>168.934</item>
+        <item>173.040</item>
+        <item>174.967</item>
+
+        <item>178.490</item>
+        <item>180.948</item>
+        <item>183.850</item>
+        <item>186.207</item>
+        <item>190.230</item>
+        <item>192.217</item>
+        <item>195.084</item>
+        <item>196.967</item>
+        <item>200.590</item>
+        <item>204.383</item>
+        <item>207.200</item>
+        <item>208.980</item>
+        <item>208.982</item>
+        <item>209.987</item>
+        <item>222.018</item>
+
+        <item>223.020</item>
+        <item>226.025</item>
+        <item>227.028</item>
+
+        <item>232.038</item>
+        <item>231.036</item>
+        <item>238.029</item>
+        <item>237.048</item>
+        <item>244.064</item>
+        <item>243.061</item>
+        <item>247.070</item>
+        <item>247.070</item>
+        <item>251.080</item>
+        <item>252.083</item>
+        <item>257.095</item>
+        <item>258.099</item>
+        <item>259.101</item>
+        <item>260.105</item>
+        <item>261.108</item>
+
+        <item>262.114</item>
+        <item>263.118</item>
+        <item>262.123</item>
+        <item>265.000</item>
+        <item>266.000</item>
+        <item>269.000</item>
+        <item>272.000</item>
+        <item>277.000</item>
+        <item>286.000</item>
+        <item>289.000</item>
+        <item>289.000</item>
+        <item>293.000</item>
+        <item>294.000</item>
+        <item>294.000</item>
+
+    </string-array>
+
+    <string-array name="quantity_list">
+
+        <!-- Grandeurs fondamentales -->
+        <item>Longueur L</item>
+        <item>Temps T</item>
+        <item>Masse M</item>
+        <item>Charge C</item>
+
+        <!-- Grandeurs dérivées -->
+		<item>Aire L²</item>
+		<item>Volume L</item>
+		<item>Fréquence</item>
+		<item>Vitesse</item>
+		<item>Accélération</item>
+
+		<item>Impulsion</item>
+		<item>Force</item>
+		<item>Pression</item>
+		<item>Energie</item>
+		<item>Puissance</item>
+		<item>Raideur</item>
+
+		<item>Intensité</item>
+		<item>Tension</item>
+		<item>Résistance</item>
+		<item>Champ électrique</item>
+		<item>Champ magnétique</item>
+		<item>Flux magnétique</item>
+		<item>Inductance</item>
+		<item>Capacité</item>
+
+        <!-- Grandeurs adimensionnelles -->
+        <item>Température</item>
+        <item>Luminosité</item>
+        <item>Molarité</item>
+        <item>Angle plat</item>
+        <item>Angle solide</item>
+
+    </string-array>
+
+</resources>
