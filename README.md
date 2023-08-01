@@ -1,11 +1,4 @@
 # Nectar
 Chemical Balancer
 
-# procedural code package
-com.major.science
-
-# poo code package
-com.major.science.physique
-
-# design package
-com.major.nectar
+![Alt text](/nectar_screenshot.png?raw=true "Title")
